@@ -1,0 +1,13 @@
+SOLID
+
+Single responsiblity 
+low cohesion 
+  cohesion tells us how related the functinonalites are , so the idea is to have low cohesion 
+  Example : 
+  class start
+  { 
+    void setConfig();
+    int getBootStatus();
+    void init();
+  };
+low coupling 
